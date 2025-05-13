@@ -1,6 +1,6 @@
 <h1 align="center">HIVE.CONNECT</h1>
 <div align="center">
-  <img src="programacao.png" alt="Git" width="120px" />
+  <img src="dev.png" alt="Git" width="120px" />
 </div>
 
 ## Objetivo
