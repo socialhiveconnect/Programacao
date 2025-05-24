@@ -5,13 +5,12 @@
 
 
 ## Objetivo
-
-    O objetivo desta trilha é te capacitar para atuar no desenvolvimento de software, abrangendo tanto a parte visual (Frontend) quanto a lógica por trás das aplicações (Backend).
+ O objetivo desta trilha é te capacitar para atuar no desenvolvimento de software, abrangendo tanto a parte visual (Frontend) quanto a lógica por trás das aplicações (Backend).
 
 ## Perfil de um Profissional de Programação
-    Quem trabalha com programação precisa ser lógico, criativo e ter boa capacidade de resolução de problemas. A habilidade de aprender novas tecnologias rapidamente e trabalhar em equipe também são essenciais.
+Quem trabalha com programação precisa ser lógico, criativo e ter boa capacidade de resolução de problemas. A habilidade de aprender novas tecnologias rapidamente e trabalhar em equipe também são essenciais.
 
-    Principais Características:
+ ## Principais Características:
 
 - **Pensamento Lógico:** Essencial para estruturar algoritmos e resolver problemas.
 - **Criatividade:** Importante para desenvolver interfaces e soluções inovadoras.
